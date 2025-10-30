@@ -130,8 +130,9 @@ It displays all attendance records in real-time and provides multiple functional
 * Statistics Cards: Shows total employees, attendance count, and attendance rate.  
 * Attendance Reports: Generate date-wise reports with working hours calculation.  
 * CSV Export: Download reports for record keeping or payroll.  
-* Smart Toggle Logic: Automatically manages IN/OUT cycles for each user.  
-
+* Smart Toggle Logic: Automatically manages IN/OUT cycles for each user.
+* Dashboard URL: https://yaranaiotguru.in/rfidtesting.php
+ 
 ### 🧮 Dashboard Statistics
 
 * Total Registered Employees  
